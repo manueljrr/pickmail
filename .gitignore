@@ -85,6 +85,9 @@ static/
 @eaDir/
 .idea
 
+# Settings file
+settings.py
+
 # Spyder project settings
 .spyderproject
 
